@@ -1,0 +1,67 @@
+
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+    "count": 1,
+    "number": 1,
+    "ports": [
+      {
+        "id": 1,
+        "title": "KIM JI HYUN",
+        "slogan": "안녕하세요. 김지현입니다:)",
+        "image": "./images/about_1.jpg",
+
+      },
+      {
+        "id": 2,
+        "title": "CODING LIFE",
+        "slogan": "코딩에 매료된",
+        "image": "./images/about_2.jpg",
+      },
+      {
+        "id": 3,
+        "title": "WEB FRONTEND",
+        "slogan": "신입 웹프론트엔드 / 웹개발자",
+        "image": "./images/about_3.jpg",
+      },
+      {
+        "id": 4,
+        "title": "HARD WORKING",
+        "slogan": "근면 성실한",
+        "image": "./images/about_4.jpg",
+      },
+      {
+        "id": 5,
+        "title": "PASSIONATE",
+        "slogan": "열정가득한",
+        "image": "./images/about_5.jpg",
+      },
+      {
+        "id": 6,
+        "title": "POSITIVE",
+        "slogan": "긍정적인",
+        "image": "./images/about_6.jpg",
+      },
+      {
+        "id": 7,
+        "title": "OPEN-MINDED",
+        "slogan": "열려있는 마인드",
+        "image": "./images/about_7.jpg",
+      },
+      {
+        "id": 8,
+        "title": "courteous",
+        "slogan": "예의바른",
+        "image": "./images/about_8.jpg",
+      },
+      {
+        "id": 9,
+        "title": "I love Food",
+        "slogan": "잘 먹는",
+        "image": "./images/about_9.jpg",
+      },
+     
+    ]
+  }
+}
