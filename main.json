@@ -43,6 +43,7 @@
         "id": 4,
         "title": ["script","of","projects"],
         "alt": "script projects",
+        "current": "slide",
         "image": ["./images/main_4-1.jpg",
                   "./images/main_4-2.jpg",
                   "./images/main_4-3.jpg",
