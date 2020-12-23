@@ -1,0 +1,68 @@
+
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+    "count": 1,
+    "number": 1,
+    "main": [
+      {
+        "num": "01",
+        "title": "Standard",
+        "desc": "This is the Web Standard Site.",
+        "url": "http://wlgus6566.dothome.co.kr/web/index.html",
+        "strong": "Web standard / Web Accessbility",
+        "using": "html5/css3/jquery"
+      }, {
+        "num": "02",
+        "title": "Megabox",
+        "desc": "This is the Megabox Site.",
+        "url": "http://wlgus6566.dothome.co.kr/mega/index.html",
+        "strong": "Responsive / Web standard",
+        "using": "html5/css3/jquery/photoshop"
+      },{
+        "num": "03",
+        "title": "Innotech",
+        "desc": "This is the Innotech Site.",
+        "url": "https://wlgus6566.github.io/innotech/index.html",
+        "strong": "All pages completed(15pages) / Renewal",
+        "using": "html5/css3/jquery/photoshop/github"
+      },{
+        num: "04",
+        "title": "Apple",
+        "desc": "This is the Apple Clone Site.",
+        "url": "https://wlgus6566.github.io/appleclone/.",
+        "strong": "Responsive / Clone",
+        "using": "Vanilla Javascript/canvas/gitbub"
+      },{
+        num: "05",
+        "title": "Bakery",
+        "desc": "This is the Bakery Site.",
+        "url": "https://wlgus6566.github.io/bbangduck/index.html",
+        "strong": "All pages completed(24pages)",
+        "using": "html5/css3/jquery/javascript/github/photoshop/illustration"
+      },{
+        num: "06",
+        "title": "Architect",
+        "desc": "This is the Architecture Site.",
+        "url": "https://wlgus6566.github.io/architecture/",
+        "strong": "Responsive/scroll effect",
+        "using": "html5/css3/jquery/javascript/github"
+      },{
+        num: "07",
+        "title": "Hotel",
+        "desc": "This is the Hotel Site.",
+        "url": "http://wlgus6566.dothome.co.kr/hotel/index.html",
+        "strong": "Responsive",
+        "using": "html5/css3/jquery"
+      },{
+        num: "08",
+        "title": "Pepsi",
+        "desc": "This is the Pepsi Site.",
+        "url": "http://wlgus6566.dothome.co.kr/Pepsi/index.html",
+        "strong": "Responsive",
+        "using": "html5/css3/jquery"
+      }
+    ]
+  }
+}
