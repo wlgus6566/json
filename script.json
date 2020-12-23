@@ -13,7 +13,7 @@
         "imgurl": "./images/script_todolist.jpg",
         "url": "http://wlgus6566.dothome.co.kr/todolist/index.html",
         "using": "html5/css3/javascript",
-        "etc": "weather api/local storage",
+        "etc": "weather api/local storage"
       },{
         "id": "2",
         "title": "CARROT-GAME",
